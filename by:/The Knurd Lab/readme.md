@@ -6,3 +6,4 @@ Home: https://www.youtube.com/@TheKnurdLab
 
 # Schematic: & Driving Circuit:
 - [Simple DIY High voltage power supply using Flyback transformer](https://youtu.be/_V_dtfKd4Y0)
+- [What is Resonance? | DIY Zero Voltage Switching Flyback driver](https://youtu.be/c6s-km-UiHA)
